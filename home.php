@@ -70,7 +70,7 @@ if ($_SERVER["REQUEST_METHOD"]==="POST") {
                                
                             </li>
                         </ul>
-                        <a class="d-flex my-2 lg-0 btn btn-outline-primary"
+                        <a class="d-flex my-2 mx-2 lg-0 btn btn-outline-primary"
                             name=""
                             id=""
                             class="btn btn-primary"
@@ -78,7 +78,7 @@ if ($_SERVER["REQUEST_METHOD"]==="POST") {
                             role="button"
                             >CSV</a
                         >
-                        <a class="d-flex my-2 lg-0 btn btn-outline-primary"
+                        <a class="d-flex my-2 mx-2 lg-0 btn btn-outline-primary"
                             name=""
                             id=""
                             class="btn btn-primary"
@@ -87,7 +87,7 @@ if ($_SERVER["REQUEST_METHOD"]==="POST") {
                             >PDF</a
                         >
                         
-                        <form class="d-flex my-2 my-lg-0" action="logout.php">
+                        <form class="d-flex my-2 mx-2 lg-0" action="logout.php">
                             
                             <button
                                 class="btn btn-outline-primary my-2 my-sm-0"
