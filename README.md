@@ -14,3 +14,7 @@ HOME PAGE
 EDIT PAGE
 
 <img width="1919" height="1037" alt="image" src="https://github.com/user-attachments/assets/fda83c2b-7a83-450e-99dc-cf830ade856f" />
+
+DATABASE TABLES
+
+<img width="612" height="377" alt="image" src="https://github.com/user-attachments/assets/fca340ef-4876-4c22-a618-b86910f6c736" />
